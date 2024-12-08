@@ -4,4 +4,3 @@ pydantic
 bert_score
 nltk
 evaluate
-cmake
