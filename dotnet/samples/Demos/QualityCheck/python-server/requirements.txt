@@ -5,5 +5,4 @@ bert_score
 nltk
 evaluate
 cmake
-unbabel-comet
-werkzeug>=3.0.6 # not directly required, pinned by Snyk to avoid a vulnerability
+babel-comet
