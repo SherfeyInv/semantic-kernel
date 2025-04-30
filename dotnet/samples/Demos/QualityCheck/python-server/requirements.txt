@@ -4,3 +4,4 @@ pydantic
 bert_score
 nltk
 evaluate
+transformers>=4.50.0 # not directly required, pinned by Snyk to avoid a vulnerability
