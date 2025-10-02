@@ -4,3 +4,4 @@ pydantic
 bert_score
 nltk
 evaluate
+torch>=2.8.0 # not directly required, pinned by Snyk to avoid a vulnerability
