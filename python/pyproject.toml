@@ -56,7 +56,7 @@ dependencies = [
     # Protobuf
     # explicit typing extensions
     "typing-extensions>=4.13",
-    "mcp>=1.26.0",
+    "mcp>=1.8",
 ]
 
 ### Optional dependencies
@@ -93,7 +93,7 @@ google = [
 hugging_face = [
     "transformers[torch] ~= 4.28",
     "sentence-transformers >= 2.2,< 6.0",
-    "torch == 2.8.0"
+    "torch==2.11.0"
 ]
 mcp = [
     "mcp>=1.8",
